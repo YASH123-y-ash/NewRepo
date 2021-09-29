@@ -1,1 +1,2 @@
 This is something on this page.
+for adding multiple changes = git add., git *.*
